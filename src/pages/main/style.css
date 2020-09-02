@@ -1,0 +1,75 @@
+.search-movie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+
+#nameMovie {
+    font-size: 20px;
+    background: #ccc;
+    padding: 6px;
+    color: orangered;
+    font-weight: bold;
+    border-radius: 10px;
+    border: solid 1px #ccc;
+}
+
+#nameMovie:focus {
+    outline-color: orangered;
+}
+
+button {
+    font-size: 18px;
+    font-weight: bold;
+    height: 50px;
+    margin-left: 5px;
+    padding: 5px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: all 0.5s;
+    background: coral;
+    color: white;
+    border: solid 1px;
+}
+
+button:hover {
+    color: coral;
+    background: white;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+article h2 {
+    margin-bottom: 15px;
+}
+
+article img {
+    width: 300px;
+    height: 450px;
+    margin-left: 600px; 
+}
+
+article p {
+    margin: 10px;
+    color: rgb(85, 83, 83);
+}
+
+#detail {
+    color: black;
+    background: coral;
+    width: 200px;
+    margin-left: 43%;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+#detail:hover {
+    color: white;
+    background: black;
+}

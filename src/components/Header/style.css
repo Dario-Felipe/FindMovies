@@ -1,0 +1,12 @@
+header { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: coral;
+    padding: 10px;
+}
+
+h1 {
+  color: white;
+  font-size: 50px
+}

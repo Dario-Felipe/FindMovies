@@ -1,0 +1,28 @@
+.resulted {
+    display: flex;
+    flex-direction: column;
+}
+
+.resulted h2 {
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.resulted img {
+    margin-bottom: 10px;
+}
+
+.resulted p {
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    margin-left: 10%;
+}
+
+#detail {
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    width: 250px;
+}
+
