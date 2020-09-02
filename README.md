@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# FindMovies
+This project was made for my learn using ReactJS and API Rest's requisitions. Therefore was used ReactJS, Axios framework and to end IMDB's API Rest with movies that will be requested. This project's interface is very intuitive, only search the film what you want. And if you wanna see more details about that choosed film, go to the option.
+>>>>>>> ea7e0974adef0d463f36ad727d6fdbc8145c0485
