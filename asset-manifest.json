@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dario-Felipe/FindMovies/static/css/main.6d4e473d.chunk.css",
+    "main.js": "/Dario-Felipe/FindMovies/static/js/main.4899f0a7.chunk.js",
+    "main.js.map": "/Dario-Felipe/FindMovies/static/js/main.4899f0a7.chunk.js.map",
+    "runtime-main.js": "/Dario-Felipe/FindMovies/static/js/runtime-main.66a10d75.js",
+    "runtime-main.js.map": "/Dario-Felipe/FindMovies/static/js/runtime-main.66a10d75.js.map",
+    "static/js/2.6cb66e67.chunk.js": "/Dario-Felipe/FindMovies/static/js/2.6cb66e67.chunk.js",
+    "static/js/2.6cb66e67.chunk.js.map": "/Dario-Felipe/FindMovies/static/js/2.6cb66e67.chunk.js.map",
+    "index.html": "/Dario-Felipe/FindMovies/index.html",
+    "precache-manifest.10adadd604fc30bbe580729fb7f2744d.js": "/Dario-Felipe/FindMovies/precache-manifest.10adadd604fc30bbe580729fb7f2744d.js",
+    "service-worker.js": "/Dario-Felipe/FindMovies/service-worker.js",
+    "static/css/main.6d4e473d.chunk.css.map": "/Dario-Felipe/FindMovies/static/css/main.6d4e473d.chunk.css.map",
+    "static/js/2.6cb66e67.chunk.js.LICENSE.txt": "/Dario-Felipe/FindMovies/static/js/2.6cb66e67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66a10d75.js",
+    "static/js/2.6cb66e67.chunk.js",
+    "static/css/main.6d4e473d.chunk.css",
+    "static/js/main.4899f0a7.chunk.js"
+  ]
+}
