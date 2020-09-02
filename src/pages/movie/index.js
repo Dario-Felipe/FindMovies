@@ -38,7 +38,7 @@ export default class movie extends Component {
             <p> <strong>Duração do filme:</strong> { Movie.Runtime } </p>
             <p> <strong>Ano de lançamento:</strong> { Movie.Year } </p>
             <p> <strong>Nota IMDB:</strong> { Movie.imdbRating } </p>
-            <Link id = "detail" to = { '/' }> Voltar a pagina anterior </Link>
+            <Link id = "detail" to = { '/FindMovies' }> Voltar a pagina anterior </Link>
           </article>
         </div>
     )

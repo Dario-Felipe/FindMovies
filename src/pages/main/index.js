@@ -44,7 +44,7 @@ export default class Main extends Component {
             <h2> { Movie.Title } </h2>
             <img src = { Movie.Poster } />
             <p> <strong>Descrição:</strong> { Movie.Plot } </p>
-            <Link id = "detail" to = { `/${ Movie.imdbID }` }> Ver mais </Link>
+            <Link id = "detail" to = { `/FindMovies/${ Movie.imdbID }` }> Ver mais </Link>
           </article>
         </div>
       </div>
